@@ -1,0 +1,28 @@
+C:\Users\MSI GS63 Stealth 8RE\Desktop\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\obj\Debug\net6.0\konyvtar_patkanyok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI GS63 Stealth 8RE\Desktop\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\obj\Debug\net6.0\konyvtar_patkanyok.AssemblyInfoInputs.cache
+C:\Users\MSI GS63 Stealth 8RE\Desktop\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\obj\Debug\net6.0\konyvtar_patkanyok.AssemblyInfo.cs
+C:\Users\MSI GS63 Stealth 8RE\Desktop\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\obj\Debug\net6.0\konyvtar_patkanyok.csproj.CoreCompileInputs.cache
+C:\Users\MSI GS63 Stealth 8RE\Desktop\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\bin\Debug\net6.0\konyvtar_patkanyok.exe
+C:\Users\MSI GS63 Stealth 8RE\Desktop\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\bin\Debug\net6.0\konyvtar_patkanyok.deps.json
+C:\Users\MSI GS63 Stealth 8RE\Desktop\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\bin\Debug\net6.0\konyvtar_patkanyok.runtimeconfig.json
+C:\Users\MSI GS63 Stealth 8RE\Desktop\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\bin\Debug\net6.0\konyvtar_patkanyok.dll
+C:\Users\MSI GS63 Stealth 8RE\Desktop\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\bin\Debug\net6.0\konyvtar_patkanyok.pdb
+C:\Users\MSI GS63 Stealth 8RE\Desktop\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\obj\Debug\net6.0\konyvtar_patkanyok.dll
+C:\Users\MSI GS63 Stealth 8RE\Desktop\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\obj\Debug\net6.0\refint\konyvtar_patkanyok.dll
+C:\Users\MSI GS63 Stealth 8RE\Desktop\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\obj\Debug\net6.0\konyvtar_patkanyok.pdb
+C:\Users\MSI GS63 Stealth 8RE\Desktop\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\obj\Debug\net6.0\konyvtar_patkanyok.genruntimeconfig.cache
+C:\Users\MSI GS63 Stealth 8RE\Desktop\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\obj\Debug\net6.0\ref\konyvtar_patkanyok.dll
+F:\iskola\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\bin\Debug\net6.0\konyvtar_patkanyok.exe
+F:\iskola\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\bin\Debug\net6.0\konyvtar_patkanyok.deps.json
+F:\iskola\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\bin\Debug\net6.0\konyvtar_patkanyok.runtimeconfig.json
+F:\iskola\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\bin\Debug\net6.0\konyvtar_patkanyok.dll
+F:\iskola\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\bin\Debug\net6.0\konyvtar_patkanyok.pdb
+F:\iskola\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\obj\Debug\net6.0\konyvtar_patkanyok.GeneratedMSBuildEditorConfig.editorconfig
+F:\iskola\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\obj\Debug\net6.0\konyvtar_patkanyok.AssemblyInfoInputs.cache
+F:\iskola\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\obj\Debug\net6.0\konyvtar_patkanyok.AssemblyInfo.cs
+F:\iskola\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\obj\Debug\net6.0\konyvtar_patkanyok.csproj.CoreCompileInputs.cache
+F:\iskola\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\obj\Debug\net6.0\konyvtar_patkanyok.dll
+F:\iskola\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\obj\Debug\net6.0\refint\konyvtar_patkanyok.dll
+F:\iskola\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\obj\Debug\net6.0\konyvtar_patkanyok.pdb
+F:\iskola\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\obj\Debug\net6.0\konyvtar_patkanyok.genruntimeconfig.cache
+F:\iskola\11\ikt\visualok\konyvtar_patkanyok\konyvtar_patkanyok\obj\Debug\net6.0\ref\konyvtar_patkanyok.dll
