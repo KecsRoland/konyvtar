@@ -19,3 +19,7 @@ A Könyvtár Patkányok egy egyszerű konzolos alkalmazás, amely egy könyvtár
 - **konyvek.txt**: A könyvek adatait tartalmazó fájl.
 - **konyvtaros_adatok.txt**: A könyvtáros bejelentkezési adatokat tartalmazó fájl.
 - **olvaso_adatok.txt**: Az olvasók regisztrációs adatait tartalmazó fájl.
+
+## Fejlesztők
+
+Készítette: Kecskés Roland & Csillik Gergely
