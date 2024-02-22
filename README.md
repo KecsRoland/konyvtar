@@ -1,4 +1,4 @@
-Egy README fájl célja, hogy röviden összefoglalja a projekt lényegét, felépítését és használatát. Az alábbiakban egy példát találsz egy ilyen README fájlra:
+Egy README fájl célja, hogy röviden összefoglalja a projekt lényegét, felépítését és használatát.
 
 ---
 
